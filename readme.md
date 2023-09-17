@@ -8,5 +8,8 @@ kubectl get nodes
 
 # Kubernetes - Parts
 
-Scheduler - responsible for distributing work or containers across multiple nodes.</>
-container runtime - the underlying framework that is responsible for running application in containers like Docker </>
+Scheduler - responsible for distributing work or containers across multiple nodes.<br/>
+
+container runtime - the underlying framework that is responsible for running application in containers like Docker <br/>
+
+kubectl - command line utility used to manage a kubernetes cluster <br/>
